@@ -1,0 +1,19 @@
+{
+  "name": "concat-sprites",
+  "version": "1.0.0",
+  "description": "Concat 2 or more sprite files into a single sprite",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "sprite",
+    "concat",
+    "image"
+  ],
+  "author": "Gregor MacLennan",
+  "license": "MIT",
+  "dependencies": {
+    "run-parallel": "^1.1.6"
+  }
+}
